@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "source": "Syntecxhub Week 1 local mock API",
+  "expenses": [
+    {"id": "api-01", "title": "Monthly allowance", "type": "income", "category": "Income", "amount": 38000, "daysAgo": 4, "note": "Monthly funds"},
+    {"id": "api-02", "title": "Groceries at supermarket", "type": "expense", "category": "Food & Drinks", "amount": 3250, "daysAgo": 1, "note": "Weekly groceries"},
+    {"id": "api-03", "title": "Internet subscription", "type": "expense", "category": "Bills", "amount": 2499, "daysAgo": 2, "note": "Home internet"},
+    {"id": "api-04", "title": "Lunch with friends", "type": "expense", "category": "Food & Drinks", "amount": 1350, "daysAgo": 4, "note": "Lunch"},
+    {"id": "api-05", "title": "Taxi ride", "type": "expense", "category": "Transport", "amount": 680, "daysAgo": 6, "note": "University commute"},
+    {"id": "api-06", "title": "Freelance website work", "type": "income", "category": "Income", "amount": 14500, "daysAgo": 12, "note": "Project payment"},
+    {"id": "api-07", "title": "Headphones", "type": "expense", "category": "Shopping", "amount": 4850, "daysAgo": 13, "note": "Electronics"},
+    {"id": "api-08", "title": "Mobile package", "type": "expense", "category": "Bills", "amount": 1099, "daysAgo": 18, "note": "Phone data"},
+    {"id": "api-09", "title": "Cinema tickets", "type": "expense", "category": "Entertainment", "amount": 2100, "daysAgo": 26, "note": "Weekend"},
+    {"id": "api-10", "title": "Part-time work", "type": "income", "category": "Income", "amount": 28500, "daysAgo": 39, "note": "Payment"},
+    {"id": "api-11", "title": "Textbooks", "type": "expense", "category": "Shopping", "amount": 3400, "daysAgo": 44, "note": "Class materials"},
+    {"id": "api-12", "title": "Doctor consultation", "type": "expense", "category": "Health", "amount": 2000, "daysAgo": 61, "note": "Consultation"},
+    {"id": "api-13", "title": "Side project", "type": "income", "category": "Income", "amount": 18500, "daysAgo": 82, "note": "Design work"},
+    {"id": "api-14", "title": "Bus pass", "type": "expense", "category": "Transport", "amount": 2200, "daysAgo": 99, "note": "Transport"},
+    {"id": "api-15", "title": "Part-time work", "type": "income", "category": "Income", "amount": 25000, "daysAgo": 142, "note": "Payment"},
+    {"id": "api-16", "title": "Grocery basket", "type": "expense", "category": "Food & Drinks", "amount": 7250, "daysAgo": 147, "note": "Household"}
+  ]
+}

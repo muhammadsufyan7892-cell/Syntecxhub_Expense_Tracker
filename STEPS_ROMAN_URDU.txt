@@ -1,0 +1,29 @@
+SYNTECXHUB WEEK 1 — EXPENSE TRACKER (WEBSTORM GUIDE)
+
+STEP 1: ZIP file extract karo.
+STEP 2: WebStorm kholo > File > Open > Syntecxhub_Expense_Tracker folder select karo.
+STEP 3: WebStorm mein neeche Terminal open karo.
+STEP 4: Commands chalao:
+        node -v
+        npm -v
+        npm install
+        npm run dev
+STEP 5: Browser mein terminal wala link kholo (usually http://localhost:5173).
+STEP 6: Add Transaction button press karke expense add karo.
+STEP 7: Income/Expense, filter, edit, delete, charts aur CSV export test karo.
+STEP 8: Browser refresh karke check karo ke data save hai.
+STEP 9: Terminal mein npm run build chalao. dist folder banega.
+STEP 10: GitHub repository banao: Syntecxhub_Expense_Tracker.
+STEP 11: GitHub par poora source code upload karo (node_modules nahi).
+STEP 12: Netlify par dist folder se website live karo (optional).
+STEP 13: PDF ki instructions ke mutabiq LinkedIn par Syntecxhub mention karo aur Submission Form mein project jama karo.
+
+FILES SAMAJHO:
+- src/App.jsx = React functionality, state, hooks, components
+- src/App.css = designing aur mobile responsive CSS
+- src/main.jsx = React application ka entry point
+- public/mock-expenses.json = mock API ke liye sample data
+- package.json = dependencies aur npm commands
+- README.md = detail mein explanation aur viva
+
+NOTE: npm install ke liye internet chahiye. Project local mock endpoint + localStorage use karta hai, real database nahi.
